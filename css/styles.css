@@ -1,0 +1,45 @@
+  body {
+    background-color: #FAEEE7;
+  }
+
+  hr {
+    border-color: #8785A2;
+    border-style: dotted none none;
+    border-width: 3px;
+    width: 10%;
+  }
+
+h1 {
+  color: #CE7BB0;
+  font: normal normal 700 28px/1.2 cursive;
+}
+
+h3 {
+  color: #A267AC;
+  font: normal normal 700 18px/1.2 cursive;
+}
+
+p {
+  color: #444444;
+  font: normal normal 400 12px/1.2 cursive;
+}
+
+th {
+  color: #A685E2;
+  font: normal normal 700 12px/1.2 cursive;
+}
+
+td {
+  color: #444444;
+  font: normal normal 400 12px/1.2 cursive;
+}
+
+li {
+  color: #444444;
+  font: normal normal 400 12px/1.2 cursive;
+}
+
+form {
+  color: #444444;
+  font: normal normal 700 14px/1.2 cursive;
+}
