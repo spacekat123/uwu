@@ -1,5 +1,5 @@
   body {
-    background-color: #FAEEE7;
+    background-color: #FAEEE7; font-family: 'Dongle', sans-serif;
   }
 
   hr {
@@ -11,35 +11,35 @@
 
 h1 {
   color: #CE7BB0;
-  font: normal normal 700 28px/1.2 cursive;
+  font: normal normal 700 28px/1.2 'Dongle', sans-serif;
 }
 
 h3 {
   color: #A267AC;
-  font: normal normal 700 18px/1.2 cursive;
+  font: normal normal 700 18px/1.2 'Dongle', sans-serif;
 }
 
 p {
   color: #444444;
-  font: normal normal 400 12px/1.2 cursive;
+  font: normal normal 400 12px/1.2 'Dongle', sans-serif;
 }
 
 th {
   color: #A685E2;
-  font: normal normal 700 12px/1.2 cursive;
+  font: normal normal 700 12px/1.2 'Dongle', sans-serif;
 }
 
 td {
   color: #444444;
-  font: normal normal 400 12px/1.2 cursive;
+  font: normal normal 400 12px/1.2 'Dongle', sans-serif;
 }
 
 li {
   color: #444444;
-  font: normal normal 400 12px/1.2 cursive;
+  font: normal normal 400 12px/1.2 'Dongle', sans-serif;
 }
 
 form {
   color: #444444;
-  font: normal normal 700 14px/1.2 cursive;
+  font: normal normal 700 14px/1.2 'Dongle', sans-serif;
 }
